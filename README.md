@@ -1,0 +1,1 @@
+2018.04.11 Left off here: http://proquest.safaribooksonline.com/book/programming/python/9781491958698/test-driven-development-with-python/copyright_page01_html?query=((test+driven+python))#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODE0OTE5NTg2OTglMkZpZG0xNDA2MzMzNzQxMDM3OTJfaHRtbCZxdWVyeT0oKHRlc3QlMjBkcml2ZW4lMjBweXRob24pKQ==
